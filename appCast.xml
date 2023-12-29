@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="https://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Your App Title - Appcast</title>
+        <!-- Add additional channel information if needed -->
+        <item>
+            <title>Version X.X.X</title>
+            <description>Release notes and update information.</description>
+            <pubdate>[Specify Publication Date]</pubdate>
+            <enclosure url="[Download URL]" sparkle:version="X.X.X" sparkle:os="[Operating System]" />
+        </item>
+        <!-- Add more items for other versions -->
+    </channel>
+</rss>
